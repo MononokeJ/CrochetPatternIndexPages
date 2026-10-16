@@ -1,7 +1,7 @@
 {
   "format": "cpi-sync-manifest-v1",
-  "version": "20260826T120918Z",
-  "updatedAt": "2026-08-26T12:09:18.423Z",
+  "version": "20261016T070917952Z-ee7eaa80",
+  "updatedAt": "2026-10-16T07:09:17.972Z",
   "packageUrl": "./catalog.cpi",
-  "packageSha256": "609596af16158340b24e808fbb9cd4e4c6679ebd46779c82f8e4dd10c25264bd"
+  "packageSha256": "331c90c14a01b0c22aff6bb3218244f97ff68b10830c5b681851c248194bdbf3"
 }
